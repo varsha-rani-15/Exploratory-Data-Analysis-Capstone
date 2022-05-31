@@ -34,3 +34,20 @@ As per the EDA, the important factors derived from the given dataset are -
 * No deposit cancellations are high compared to other categories but these should not be discouraged per se as bookings in this category are also very high compared to non refundable type bookings.
 
 * Cancellations are high when done through agents compared to direct bookings. Hotels need to do marketing and give special incentives for direct bookings as these may establish personal one to one relationships promoting customer loyalty.
+
+## Here are some glimpse of few graphs, there are more in the notebook please have a look.
+<p align="left">
+  <img width="300" height="200" src="https://user-images.githubusercontent.com/99494127/171113753-7c76c550-9a56-4bf0-8720-b0ed49de931e.jpg">
+  &nbsp &nbsp 
+  <img width="300" height="200" src="https://user-images.githubusercontent.com/99494127/171114577-93bc15cb-a2ba-48fa-9a3b-ea04efc2a84a.jpg">
+  &nbsp &nbsp
+  <img width="300" height="200" src="https://user-images.githubusercontent.com/99494127/171114615-40c70f03-a924-4755-9383-23fc6fec5ecc.jpg">
+</p>
+
+<p align="left">
+  <img width="300" height="200" src="https://user-images.githubusercontent.com/99494127/171114674-a5becec7-13d2-40c4-8168-14048e60c22f.jpg">
+  &nbsp &nbsp 
+  <img width="300" height="200" src="https://user-images.githubusercontent.com/99494127/171114723-bd51bd5f-f45e-4dde-a3d0-cb3bb1e06705.jpg">
+  &nbsp &nbsp 
+  <img width="300" height="200" src="https://user-images.githubusercontent.com/99494127/171114747-afc70959-caa1-415e-8617-0d437bf0f15a.jpg">
+</p>
