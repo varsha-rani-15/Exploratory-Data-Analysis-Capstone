@@ -42,9 +42,7 @@ As per the EDA, the important factors derived from the given dataset are -
   <img width="300" height="200" src="https://user-images.githubusercontent.com/99494127/171114577-93bc15cb-a2ba-48fa-9a3b-ea04efc2a84a.jpg">
   &nbsp &nbsp
   <img width="300" height="200" src="https://user-images.githubusercontent.com/99494127/171114615-40c70f03-a924-4755-9383-23fc6fec5ecc.jpg">
-</p>
-
-<p align="left">
+  &nbsp &nbsp
   <img width="300" height="200" src="https://user-images.githubusercontent.com/99494127/171114674-a5becec7-13d2-40c4-8168-14048e60c22f.jpg">
   &nbsp &nbsp 
   <img width="300" height="200" src="https://user-images.githubusercontent.com/99494127/171114723-bd51bd5f-f45e-4dde-a3d0-cb3bb1e06705.jpg">
