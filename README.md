@@ -6,10 +6,41 @@ Have you ever wondered when the best time of year to book a hotel room is? Or th
 This data set contains booking information for a city hotel and a resort hotel, and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things. All personally identifying information has been removed from the data.
 Explore and analyze the data to discover important factors that govern the bookings.
 
-## Dataset:
-Hotel Bookings
+## Introduction
+This data set contains booking information for a city hotel and a resort hotel, and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things. All personally identifying information has been removed from the data.
+Libraries used:
+• Pandas
+• NumPy
+• Matplotlib
+• Seaborn
 
-I have done analysis of the given data and derived the following conclusion:
+## Objective
+The objective of this project is to explore and analyze the data to discover important factors that govern the bookings.
+
+## Steps Involved
+✓ Data Exploration
+✓ Data Cleaning
+✓ Data Preparation
+✓ Visualization
+> • Null values
+> • Count of each numeric data
+> • Correlation between data
+> • Types of hotels
+> • Hotel wise yearly bookings
+> • Top countries from where the most guests are coming
+> • Top countries with number of guests
+> • Proportion of bookings cancellation
+> • Previous cancellations vs cancellations
+> • Hotel wise monthly bookings
+> • Hotel wise monthly cancellations
+> • Market segment vs bookings
+> • Types of customers
+> • Customer types vs booking cancellations
+> • Lead time vs cancellations
+> • Average daily rate vs room type
+> • Average daily rate vs meal
+> • Average daily rate vs market segment based on room type.
+
 ## Conclusion
 As per the EDA, the important factors derived from the given dataset are -
 
